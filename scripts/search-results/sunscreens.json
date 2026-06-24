@@ -1,0 +1,29 @@
+{
+  "success": true,
+  "query": "facial sunscreen SPF 50 bottle product",
+  "count": 3,
+  "ranked": false,
+  "results": [
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/10b4a5635c2a.jpg",
+      "caption": "",
+      "source": "Rocky Mountain Sunscreen",
+      "original_width": "1000px",
+      "original_height": "1000px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/94361e2b70e0.webp",
+      "caption": "",
+      "source": "Standard Procedure",
+      "original_width": "1500px",
+      "original_height": "1500px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/d960681fa5c5.jpg",
+      "caption": "",
+      "source": "SolRX Sunscreen",
+      "original_width": "1920px",
+      "original_height": "1920px"
+    }
+  ]
+}

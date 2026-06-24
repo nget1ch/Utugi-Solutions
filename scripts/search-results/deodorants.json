@@ -1,0 +1,29 @@
+{
+  "success": true,
+  "query": "Nivea deodorant roll-on product photo",
+  "count": 3,
+  "ranked": false,
+  "results": [
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/418a2bfdd9b2.jpg",
+      "caption": "",
+      "source": "Amazon.com",
+      "original_width": "1000px",
+      "original_height": "960px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/d942366ca5b1.jpg",
+      "caption": "",
+      "source": "Amazon.com",
+      "original_width": "1000px",
+      "original_height": "953px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/b9cadb6a2c9d.jpg",
+      "caption": "",
+      "source": "Care to Beauty",
+      "original_width": "1600px",
+      "original_height": "1600px"
+    }
+  ]
+}

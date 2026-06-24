@@ -1,0 +1,29 @@
+{
+  "success": true,
+  "query": "eyebrow pencil makeup product photo",
+  "count": 3,
+  "ranked": false,
+  "results": [
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/04f16cc3e9b5.jpg",
+      "caption": "",
+      "source": "asrar-co",
+      "original_width": "1000px",
+      "original_height": "1000px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/411e26dede1c.jpeg",
+      "caption": "",
+      "source": "CNN",
+      "original_width": "1480px",
+      "original_height": "833px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/915516f56134.jpg",
+      "caption": "",
+      "source": "Biomaser",
+      "original_width": "1600px",
+      "original_height": "1600px"
+    }
+  ]
+}

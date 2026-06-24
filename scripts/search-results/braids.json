@@ -1,0 +1,29 @@
+{
+  "success": true,
+  "query": "Darling braids hair extensions pack product photo",
+  "count": 3,
+  "ranked": false,
+  "results": [
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/dc4674be80e2.jpg",
+      "caption": "",
+      "source": "Beauty Exchange",
+      "original_width": "960px",
+      "original_height": "960px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/04c1af39404a.jpg",
+      "caption": "",
+      "source": "Amazon.com",
+      "original_width": "955px",
+      "original_height": "1000px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/8e09dc68ed73.jpeg",
+      "caption": "",
+      "source": "Ubuy Ghana",
+      "original_width": "2200px",
+      "original_height": "2200px"
+    }
+  ]
+}

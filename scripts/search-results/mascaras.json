@@ -1,0 +1,29 @@
+{
+  "success": true,
+  "query": "Maybelline mascara tube product photo",
+  "count": 3,
+  "ranked": false,
+  "results": [
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/41ec4b553e98.jpg",
+      "caption": "",
+      "source": "Amazon.com",
+      "original_width": "2560px",
+      "original_height": "2560px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/5e4c7b361685.jpg",
+      "caption": "",
+      "source": "Amazon.com",
+      "original_width": "1280px",
+      "original_height": "1280px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/f40d9bc8cb6b.jpg",
+      "caption": "",
+      "source": "Purplle.com",
+      "original_width": "1000px",
+      "original_height": "1000px"
+    }
+  ]
+}

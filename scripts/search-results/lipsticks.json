@@ -1,0 +1,29 @@
+{
+  "success": true,
+  "query": "matte red lipstick tube product photo",
+  "count": 3,
+  "ranked": false,
+  "results": [
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/f43b61a7613d.jpg",
+      "caption": "",
+      "source": "GoSupps.com",
+      "original_width": "1600px",
+      "original_height": "1600px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/316bc636464f.jpg",
+      "caption": "",
+      "source": "Amazon.in",
+      "original_width": "1000px",
+      "original_height": "1000px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/3acfaab0ea9b.jpg",
+      "caption": "",
+      "source": "The Wright Look",
+      "original_width": "1024px",
+      "original_height": "1024px"
+    }
+  ]
+}

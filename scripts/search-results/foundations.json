@@ -1,0 +1,29 @@
+{
+  "success": true,
+  "query": "Maybelline Fit Me foundation bottle product photo",
+  "count": 3,
+  "ranked": false,
+  "results": [
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/e3df3919f03e.jpg",
+      "caption": "",
+      "source": "Amazon.com",
+      "original_width": "2560px",
+      "original_height": "2560px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/1c0fbbf0b6d1.jpg",
+      "caption": "",
+      "source": "Maybelline",
+      "original_width": "880px",
+      "original_height": "1320px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/b758c0c31649.jpg",
+      "caption": "",
+      "source": "Whites",
+      "original_width": "1200px",
+      "original_height": "1200px"
+    }
+  ]
+}

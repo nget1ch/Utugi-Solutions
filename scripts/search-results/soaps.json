@@ -1,0 +1,29 @@
+{
+  "success": true,
+  "query": "Dudu Osun African black soap bar product",
+  "count": 3,
+  "ranked": false,
+  "results": [
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/2b37846dc47b.jpg",
+      "caption": "",
+      "source": "Amazon.com",
+      "original_width": "1064px",
+      "original_height": "1380px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/4e0314a3b059.jpg",
+      "caption": "",
+      "source": "Africa Imports",
+      "original_width": "1000px",
+      "original_height": "1000px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/2aa16e81c40c.jpg",
+      "caption": "",
+      "source": "Amazon.com.be",
+      "original_width": "1000px",
+      "original_height": "846px"
+    }
+  ]
+}

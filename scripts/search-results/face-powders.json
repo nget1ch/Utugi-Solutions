@@ -1,0 +1,29 @@
+{
+  "success": true,
+  "query": "compact face powder makeup product photo",
+  "count": 3,
+  "ranked": false,
+  "results": [
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/c4b5d655df73.jpg",
+      "caption": "",
+      "source": "Studio Gear Cosmetics",
+      "original_width": "1000px",
+      "original_height": "1000px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/b43219e66237.png",
+      "caption": "",
+      "source": "British Cosmetics",
+      "original_width": "1200px",
+      "original_height": "1200px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/b36260b48810.jpg",
+      "caption": "",
+      "source": "Amazon.com",
+      "original_width": "995px",
+      "original_height": "1000px"
+    }
+  ]
+}

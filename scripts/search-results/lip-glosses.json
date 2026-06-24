@@ -1,0 +1,29 @@
+{
+  "success": true,
+  "query": "clear lip gloss tube product photo",
+  "count": 3,
+  "ranked": false,
+  "results": [
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/a4ce06f7ab6b.jpg",
+      "caption": "",
+      "source": "Amazon.in",
+      "original_width": "1098px",
+      "original_height": "1100px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/51274384027d.jpg",
+      "caption": "",
+      "source": "Somewang",
+      "original_width": "932px",
+      "original_height": "932px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/e10ec24a26a1.jpg",
+      "caption": "",
+      "source": "Zenvista Packagings",
+      "original_width": "3000px",
+      "original_height": "3000px"
+    }
+  ]
+}

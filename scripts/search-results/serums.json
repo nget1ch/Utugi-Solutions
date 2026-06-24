@@ -1,0 +1,29 @@
+{
+  "success": true,
+  "query": "Vitamin C face serum dropper bottle product photo",
+  "count": 3,
+  "ranked": false,
+  "results": [
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/09800fddd616.jpg",
+      "caption": "",
+      "source": "Amazon.in",
+      "original_width": "1080px",
+      "original_height": "1350px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/e7050bf14bca.jpg",
+      "caption": "",
+      "source": "Amazon.in",
+      "original_width": "1080px",
+      "original_height": "1350px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/7b69608a0436.jpg",
+      "caption": "",
+      "source": "Plum Goodness",
+      "original_width": "1100px",
+      "original_height": "1100px"
+    }
+  ]
+}

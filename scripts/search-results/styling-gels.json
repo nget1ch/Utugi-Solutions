@@ -1,0 +1,29 @@
+{
+  "success": true,
+  "query": "Eco Styler hair gel green jar product photo",
+  "count": 3,
+  "ranked": false,
+  "results": [
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/71e0a3b20e81.png",
+      "caption": "",
+      "source": "ecostyle.com",
+      "original_width": "2000px",
+      "original_height": "888px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/2763024d19c3.png",
+      "caption": "",
+      "source": "ecostyle.com",
+      "original_width": "2000px",
+      "original_height": "953px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/1a74dd9a9b65.jpg",
+      "caption": "",
+      "source": "YouTube",
+      "original_width": "1280px",
+      "original_height": "720px"
+    }
+  ]
+}

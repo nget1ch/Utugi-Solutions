@@ -1,0 +1,29 @@
+{
+  "success": true,
+  "query": "coconut hair oil bottle product photo",
+  "count": 3,
+  "ranked": false,
+  "results": [
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/45928b25a7bc.jpg",
+      "caption": "",
+      "source": "Tradeindia",
+      "original_width": "1000px",
+      "original_height": "1000px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/67eb3011764c.jpg",
+      "caption": "",
+      "source": "The Natural Wash",
+      "original_width": "1100px",
+      "original_height": "1100px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/e6f00311e74e.jpg",
+      "caption": "",
+      "source": "Kiwla",
+      "original_width": "1280px",
+      "original_height": "1280px"
+    }
+  ]
+}

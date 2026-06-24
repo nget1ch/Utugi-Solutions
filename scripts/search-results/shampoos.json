@@ -1,0 +1,29 @@
+{
+  "success": true,
+  "query": "anti dandruff shampoo bottle product photo",
+  "count": 3,
+  "ranked": false,
+  "results": [
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/ab9cc27077e4.webp",
+      "caption": "",
+      "source": "Honey N Beaute",
+      "original_width": "1080px",
+      "original_height": "1350px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/178341b3a745.webp",
+      "caption": "",
+      "source": "Mini India Grocery",
+      "original_width": "1946px",
+      "original_height": "1946px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/d0ef3e641482.jpg",
+      "caption": "",
+      "source": "oh feliz",
+      "original_width": "1024px",
+      "original_height": "1855px"
+    }
+  ]
+}

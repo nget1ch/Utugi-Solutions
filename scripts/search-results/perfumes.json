@@ -1,0 +1,29 @@
+{
+  "success": true,
+  "query": "perfume body mist bottle product photo",
+  "count": 3,
+  "ranked": false,
+  "results": [
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/4393e5a6111b.jpg",
+      "caption": "",
+      "source": "The Body Shop",
+      "original_width": "2048px",
+      "original_height": "2048px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/da039606a113.webp",
+      "caption": "",
+      "source": "The Body Shop",
+      "original_width": "2048px",
+      "original_height": "2048px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/7ab4ad0e8a7b.jpg",
+      "caption": "",
+      "source": "Amazon.in",
+      "original_width": "803px",
+      "original_height": "1000px"
+    }
+  ]
+}
